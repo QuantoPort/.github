@@ -12,6 +12,7 @@ OpenAI- and Anthropic-compatible API, with a single key and a single balance.
 
 - **Email:** support@quantoport.com
 - **WhatsApp:** [@quantoport](https://wa.me/85255273185)
+- **Telegram:** [@quantoport](https://t.me/quantoport)
 - **Community:** <https://quantoport.com/community/>
 
 ## Open source
